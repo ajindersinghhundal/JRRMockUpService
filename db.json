@@ -1,21 +1,21 @@
 {
    "result": {
       "Value": [
-         {
-            "BankName": "BankName1",
-            "BankAccountNumber": "BankAccount1",
-            "PurposeOfAccount": "string",            
-            "Email": "fname1lname1@abc.com"            
+         {            
+            "BankAccountNumber": "HR1122223333444455556",
+            "BankName": "Zagrebacka banka d.d. - 3444455556",
+            "PurposeOfAccount": "Personal current account",            
+            "Email": "ana.babic@oracle.com"        
          },
-         {
-            "BankName": "BankName2",
+         {            
             "BankAccountNumber": "BankAccount2",
+            "BankName": "BankName2",
             "PurposeOfAccount": "string",            
             "Email": "fname2lname2@abc.com"   
          },
-        {
-            "BankName": "BankName3",
+        {            
             "BankAccountNumber": "BankAccount3",
+            "BankName": "BankName3",
             "PurposeOfAccount": "string",            
             "Email": "fname3lname3@abc.com" 
          }
